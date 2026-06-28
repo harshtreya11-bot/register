@@ -1,1 +1,9 @@
-
+{
+    "owner": {
+        "username": "github-harshtreya11-bot",
+        "email": "harshtreya11@gmail.com"
+    },
+    "records": {
+        "CNAME": "github-harshtreya11-bot.github.io"
+    }
+}
